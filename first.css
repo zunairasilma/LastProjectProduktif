@@ -1,0 +1,45 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-image: url(c.jpg );
+}
+
+div.cek h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    color: #e66767;
+}
+div.cek p{
+	width: 50%;
+    color: #f7f1e3;
+    text-align: left;
+    margin-left: 25%; 
+    font-size: 30px;
+    align-items: center;
+    margin-bottom: 70px;
+}
+div .cek h2{
+	width: 70%;
+    color: #f7f1e3;
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.btn {
+	align-items: center;
+	margin-left: 25%;
+	margin-bottom: 10px;
+	padding: 10px;
+	font-size: 20px;
+	color: #f7f1e3;
+	background-image: url(a.jpg);
+	border-radius: 5px;
+	border: none;
+	text-align: center;
+	text-decoration: none;
+}
